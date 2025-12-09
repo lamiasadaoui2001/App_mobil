@@ -1,0 +1,11 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:31.543 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:44.853 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:60:13 Unresolved reference 'IllustrationSection'.
+00:44.857 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:111:18 'fun Modifier.align(alignment: Alignment): Modifier' cannot be called in this context with an implicit receiver. Use an explicit receiver if necessary.
+00:44.859 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:116:13 Unresolved reference 'PageIndicator'.
+00:44.864 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:118:13 Unresolved reference 'PageIndicator'.
+00:44.867 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:120:13 Unresolved reference 'PageIndicator'.
+00:44.876 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:139:9 Unresolved reference 'PlantPotIcon'.
+00:44.880 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:218:2 Syntax error: Expecting '}'.

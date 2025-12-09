@@ -1,0 +1,16 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {
+        "%outputs%": "E:\\app\\build\\generated\\app\\main\\src\\compose\\resources\\commonResClass",
+        "makeAccessorsPublic": "false",
+        "packageName": "\"app.generated.resources\"",
+        "packagingDir": "\"composeResources/app.generated.resources/\"",
+        "shouldGenerateCode": "false"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [],
+    "outputFilesState": {},
+    "excludedOutputFiles": []
+}

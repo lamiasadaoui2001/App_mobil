@@ -1,0 +1,15 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:06.536 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:21.407 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:4:16 Unresolved reference 'serialization'.
+00:21.411 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:5:16 Unresolved reference 'serialization'.
+00:21.412 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:15:2 Cannot access 'typealias Serializable = Serializable': it is internal in file.
+00:21.415 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:15:2 Illegal annotation class 'Serializable'.
+00:21.421 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:39:16 Unresolved reference 'Json'.
+00:21.423 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:52:18 Unresolved reference 'Json'.
+00:21.424 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:53:25 Cannot infer type for value parameter 'day'. Specify it explicitly.
+00:21.425 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:54:19 Cannot infer type for value parameter 'ts'. Specify it explicitly.
+00:21.426 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:55:21 Unresolved reference 'label'.
+00:21.427 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:55:47 Unresolved reference 'iconName'.
+00:21.428 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:55:61 Unresolved reference 'state'.

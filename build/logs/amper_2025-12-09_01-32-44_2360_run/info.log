@@ -1,0 +1,15 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:05.943 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:20.025 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:26:12 Redeclaration:
+data class Task : Any
+00:20.036 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:23:1 Conflicting overloads:
+fun OnboardingScreen(onStart: () -> Unit): Unit
+00:20.037 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:16:12 Redeclaration:
+data class Task : Any
+00:20.039 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:27:1 Conflicting overloads:
+fun OnboardingScreen(onStart: () -> Unit): Unit
+00:20.041 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:69:29 Overload resolution ambiguity between candidates:
+fun OnboardingScreen(onStart: () -> Unit): Unit
+fun OnboardingScreen(onStart: () -> Unit): Unit

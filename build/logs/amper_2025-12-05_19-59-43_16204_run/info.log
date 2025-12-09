@@ -1,0 +1,7 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:04.052 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:12.241 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:31:21 Unresolved reference 'File'.
+00:12.245 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:32:17 Unresolved reference 'ImageIO'.
+00:12.246 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:34:19 Unresolved reference 'BitmapPainter'.

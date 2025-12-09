@@ -1,0 +1,10 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:04.212 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:10.444 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:31:16 Unresolved reference 'BufferedImage'.
+00:10.446 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:31:32 Unresolved reference 'useResource'.
+00:10.446 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:31:57 Unresolved reference 'ImageIO'.
+00:10.447 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:31:70 Unresolved reference 'it'.
+00:10.448 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:33:19 Unresolved reference 'BitmapPainter'.
+00:10.448 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:33:39 Unresolved reference 'toComposeImageBitmap'.

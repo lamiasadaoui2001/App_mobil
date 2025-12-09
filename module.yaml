@@ -1,0 +1,8 @@
+product: jvm/app
+
+dependencies:
+  - $compose.desktop.currentOs
+  - org.jetbrains.compose.material:material-icons-extended-desktop:1.6.0
+
+settings:
+  compose: enabled

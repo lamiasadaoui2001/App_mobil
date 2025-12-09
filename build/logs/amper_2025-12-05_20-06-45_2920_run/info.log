@@ -1,0 +1,8 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:05.519 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:11.759 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:37:37 None of the following candidates is applicable:
+fun Bitmap.asImageBitmap(): ImageBitmap
+fun Image.asImageBitmap(): ImageBitmap
+00:11.763 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:45:1 Syntax error: Expecting a top level declaration.

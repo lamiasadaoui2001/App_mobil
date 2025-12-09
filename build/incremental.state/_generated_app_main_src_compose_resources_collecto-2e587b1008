@@ -1,0 +1,16 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {
+        "%outputs%": "E:\\app\\build\\generated\\app\\main\\src\\compose\\resources\\collectors",
+        "makeAccessorsPublic": "false",
+        "packageName": "\"app.generated.resources\"",
+        "shouldGenerateCode": "false",
+        "useActualModifier": "false"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [],
+    "outputFilesState": {},
+    "excludedOutputFiles": []
+}

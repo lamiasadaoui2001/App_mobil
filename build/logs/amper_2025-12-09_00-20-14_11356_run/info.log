@@ -1,0 +1,9 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:06.364 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:19.113 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/NewHabitScreen.kt:81:77 Unresolved reference 'PrimaryPurple'.
+00:19.116 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/NewHabitScreen.kt:93:63 Unresolved reference 'PrimaryPurple'.
+00:19.118 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/NewHabitScreen.kt:114:57 Unresolved reference 'PrimaryPurple'.
+00:19.119 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/NewHabitScreen.kt:128:72 Unresolved reference 'PrimaryPurple'.
+00:19.121 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:18:23 Unresolved reference 'HomeScreen'.

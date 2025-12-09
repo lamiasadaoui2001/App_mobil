@@ -1,0 +1,14 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:06.194 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:13.315 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:5:25 Unresolved reference 'material3'.
+00:13.318 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:69:17 Unresolved reference 'Text'.
+00:13.319 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:72:13 Unresolved reference 'Text'.
+00:13.319 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:80:13 Unresolved reference 'Text'.
+00:13.321 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:89:13 Unresolved reference 'Button'.
+00:13.322 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:94:26 Unresolved reference 'ButtonDefaults'.
+00:13.323 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/OnboardingScreen.kt:99:17 Unresolved reference 'Text'.
+00:13.324 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:2:25 Unresolved reference 'material3'.
+00:13.325 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:10:5 Unresolved reference 'MaterialTheme'.
+00:13.326 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:11:9 @Composable invocations can only happen from the context of a @Composable function

@@ -1,0 +1,42 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:06.884 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:18.982 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:1:36 Conflicting import: imported name 'BorderStroke' is ambiguous.
+00:18.985 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:9:42 Conflicting import: imported name 'RoundedCornerShape' is ambiguous.
+00:18.986 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:11:40 Conflicting import: imported name 'Icons' is ambiguous.
+00:18.987 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:14:28 Conflicting import: imported name 'Alignment' is ambiguous.
+00:18.988 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:15:28 Conflicting import: imported name 'Modifier' is ambiguous.
+00:18.990 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:16:37 Conflicting import: imported name 'Color' is ambiguous.
+00:19.023 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:19:18 Conflicting import: imported name 'DayOfWeek' is ambiguous.
+00:19.026 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:20:18 Conflicting import: imported name 'LocalDate' is ambiguous.
+00:19.029 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:25:12 Redeclaration:
+data class Task : Any
+00:19.041 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:35:1 Conflicting overloads:
+fun HomeScreen(): Unit
+00:19.041 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:152:17 Overload resolution ambiguity between candidates:
+fun TaskCard(task: Task, onToggle: () -> Unit): Unit
+fun TaskCard(task: Task, onToggle: () -> Unit): Unit
+00:19.046 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:187:1 Conflicting overloads:
+fun TaskCard(task: Task, onToggle: () -> Unit): Unit
+00:19.047 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:235:2 Syntax error: imports are only allowed in the beginning of file.
+00:19.048 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:236:36 Conflicting import: imported name 'BorderStroke' is ambiguous.
+00:19.050 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:244:42 Conflicting import: imported name 'RoundedCornerShape' is ambiguous.
+00:19.051 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:246:40 Conflicting import: imported name 'Icons' is ambiguous.
+00:19.052 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:249:28 Conflicting import: imported name 'Alignment' is ambiguous.
+00:19.055 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:250:28 Conflicting import: imported name 'Modifier' is ambiguous.
+00:19.057 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:251:37 Conflicting import: imported name 'Color' is ambiguous.
+00:19.057 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:254:18 Conflicting import: imported name 'DayOfWeek' is ambiguous.
+00:19.058 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:255:18 Conflicting import: imported name 'LocalDate' is ambiguous.
+00:19.060 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:260:12 Redeclaration:
+data class Task : Any
+00:19.061 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:270:1 Conflicting overloads:
+fun HomeScreen(): Unit
+00:19.062 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:387:17 Overload resolution ambiguity between candidates:
+fun TaskCard(task: Task, onToggle: () -> Unit): Unit
+fun TaskCard(task: Task, onToggle: () -> Unit): Unit
+00:19.063 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:422:1 Conflicting overloads:
+fun TaskCard(task: Task, onToggle: () -> Unit): Unit
+00:19.065 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:20:23 Overload resolution ambiguity between candidates:
+fun HomeScreen(): Unit
+fun HomeScreen(): Unit

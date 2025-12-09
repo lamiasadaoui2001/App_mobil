@@ -1,0 +1,5 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:16.023 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:56.516 INFO  :app:runJvm               AbstractJvmRunTask        Process exited with exit code 0

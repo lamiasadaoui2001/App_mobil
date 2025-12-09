@@ -1,0 +1,5 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:06.277 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:19.094 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:29:40 Unresolved reference 'Icons'.

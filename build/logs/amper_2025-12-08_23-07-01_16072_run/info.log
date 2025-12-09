@@ -1,0 +1,8 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:06.220 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:24.638 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:50:51 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.
+00:24.641 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:63:62 'val Icons.Filled.DirectionsWalk: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.DirectionsWalk.
+00:24.642 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:64:51 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.
+00:24.644 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:75:51 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.

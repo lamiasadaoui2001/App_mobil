@@ -1,0 +1,5 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:07.207 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:21.433 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:18:31 Argument type mismatch: actual type is 'Function0<Unit>', but 'Function3<String, String, List<Int>, Unit>' was expected.

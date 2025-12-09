@@ -1,0 +1,42 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-impl\\2.2.21\\kotlin-build-tools-impl-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-api\\2.2.21\\kotlin-build-tools-api-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.2.21\\kotlin-stdlib-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-embeddable\\2.2.21\\kotlin-compiler-embeddable-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-runner\\2.2.21\\kotlin-compiler-runner-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-compiler-embeddable\\2.2.21\\kotlin-scripting-compiler-embeddable-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-compiler-impl-embeddable\\2.2.21\\kotlin-scripting-compiler-impl-embeddable-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-script-runtime\\2.2.21\\kotlin-script-runtime-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\1.6.10\\kotlin-reflect-1.6.10.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-embeddable\\2.2.21\\kotlin-daemon-embeddable-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.8.0\\kotlinx-coroutines-core-jvm-1.8.0.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-client\\2.2.21\\kotlin-daemon-client-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-common\\2.2.21\\kotlin-scripting-common-2.2.21.jar",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-jvm\\2.2.21\\kotlin-scripting-jvm-2.2.21.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar": "size 29371 mtime 2025-12-05T10:34:23.2699385Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-api\\2.2.21\\kotlin-build-tools-api-2.2.21.jar": "size 45041 mtime 2025-12-05T10:39:26.4178198Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-impl\\2.2.21\\kotlin-build-tools-impl-2.2.21.jar": "size 59478 mtime 2025-12-05T10:39:26.5340301Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-embeddable\\2.2.21\\kotlin-compiler-embeddable-2.2.21.jar": "size 56908512 mtime 2025-12-05T10:39:41.3944716Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-runner\\2.2.21\\kotlin-compiler-runner-2.2.21.jar": "size 19826 mtime 2025-12-05T10:39:26.5559713Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-client\\2.2.21\\kotlin-daemon-client-2.2.21.jar": "size 243195 mtime 2025-12-05T10:39:25.7212899Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-embeddable\\2.2.21\\kotlin-daemon-embeddable-2.2.21.jar": "size 347987 mtime 2025-12-05T10:39:25.973318Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\1.6.10\\kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2025-12-05T10:39:26.5509873Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-script-runtime\\2.2.21\\kotlin-script-runtime-2.2.21.jar": "size 44769 mtime 2025-12-05T10:39:25.937617Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-common\\2.2.21\\kotlin-scripting-common-2.2.21.jar": "size 198530 mtime 2025-12-05T10:39:25.8671734Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-compiler-embeddable\\2.2.21\\kotlin-scripting-compiler-embeddable-2.2.21.jar": "size 587162 mtime 2025-12-05T10:39:27.1994437Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-compiler-impl-embeddable\\2.2.21\\kotlin-scripting-compiler-impl-embeddable-2.2.21.jar": "size 230094 mtime 2025-12-05T10:39:26.2028915Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-scripting-jvm\\2.2.21\\kotlin-scripting-jvm-2.2.21.jar": "size 149319 mtime 2025-12-05T10:39:25.9234283Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.2.21\\kotlin-stdlib-2.2.21.jar": "size 1761445 mtime 2025-12-05T10:38:13.7657604Z",
+        "C:\\Users\\lamia\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.8.0\\kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2025-12-05T10:34:20.278198Z"
+    },
+    "excludedOutputFiles": []
+}
