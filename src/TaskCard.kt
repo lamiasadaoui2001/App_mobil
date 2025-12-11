@@ -21,7 +21,8 @@ val PrimaryPurple = Color(0xFF6C63FF)
 fun TaskCard(
     task: Task,
     onToggle: () -> Unit,
-    onDelete: () -> Unit  // ← Ajout de ce paramètre
+    onDelete: () -> Unit , // ← Ajout de ce paramètre
+    onClick: () -> Unit
 ) {
     val isDone = task.state == "done"
     val iconRight = if (isDone) Icons.Default.Check else Icons.Default.Pause
@@ -34,7 +35,9 @@ fun TaskCard(
     Card(
         elevation = 4.dp,
         shape = RoundedCornerShape(12.dp),
-        modifier = Modifier.fillMaxWidth()
+        modifier = Modifier
+            .fillMaxWidth()
+            .clickable { onClick() }
     ) {
         Row(
             modifier = Modifier.padding(16.dp),

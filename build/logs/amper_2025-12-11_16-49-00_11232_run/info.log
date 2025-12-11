@@ -1,0 +1,6 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:05.640 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:19.125 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HabitDetailScreen.kt:41:94 Unresolved reference 'clickable'.
+00:19.128 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HabitDetailScreen.kt:42:68 Unresolved reference 'clickable'.

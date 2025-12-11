@@ -1,0 +1,51 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:36.889 DEBUG :app:resolveDependenciesJvm ResolveExternalDependenciesTask resolve dependencies app -- main -- org.jetbrains.compose.desktop:desktop-jvm-windows-x64:1.8.2 org.jetbrains.compose.material:material-icons-extended-desktop:1.6.0 org.jetbrains.compose.runtime:runtime:1.8.2 org.jetbrains.kotlin:kotlin-stdlib:2.2.21 -- resolvePlatform=jvm nativeTarget=null wasmTarget=null
+00:36.919 DEBUG :generated\app\main\src\compose\resources\commonResClass IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_generated_app_main_src_compose_resources_commonRe-54d53be939' in 15.259800ms
+00:36.920 DEBUG :generated\app\main\src\compose\resources\commonResClass IncrementalCache          [inc] ':generated\app\main\src\compose\resources\commonResClass' is up-to-date
+00:36.964 DEBUG :artifacts\PreparedComposeResourcesDirArtifact\appmain IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_artifacts_PreparedComposeResourcesDirArtifact_app-d0751f6123' in 55.211800ms
+00:36.965 DEBUG :artifacts\PreparedComposeResourcesDirArtifact\appmain IncrementalCache          [inc] ':artifacts\PreparedComposeResourcesDirArtifact\appmain' is up-to-date
+00:36.977 DEBUG :app:prepareComposeResourcesForJvmMain IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_app_prepareComposeResourcesForJvmMain-394721c199' in 1.120400ms
+00:36.977 DEBUG :app:prepareComposeResourcesForJvmMain IncrementalCache          [inc] ':app:prepareComposeResourcesForJvmMain' is up-to-date
+00:36.984 DEBUG :generated\app\main\src\compose\resources\accessors IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_generated_app_main_src_compose_resources_accessor-0bf8dfa386' in 7.311400ms
+00:36.984 DEBUG :generated\app\main\src\compose\resources\accessors IncrementalCache          [inc] ':generated\app\main\src\compose\resources\accessors' is up-to-date
+00:36.990 DEBUG :generated\app\main\src\compose\resources\collectors IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_generated_app_main_src_compose_resources_collecto-2e587b1008' in 1.538800ms
+00:36.991 DEBUG :generated\app\main\src\compose\resources\collectors IncrementalCache          [inc] ':generated\app\main\src\compose\resources\collectors' is up-to-date
+00:37.015 DEBUG :app:resolveDependenciesJvm IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_app_resolveDependenciesJvm-ba82a87db8' in 122.559800ms
+00:37.016 DEBUG :app:resolveDependenciesJvm IncrementalCache          [inc] ':app:resolveDependenciesJvm' is up-to-date
+00:37.026 DEBUG :app:resolveDependenciesJvm ResolveExternalDependenciesTask resolve dependencies app -- main -- org.jetbrains.compose.desktop:desktop-jvm-windows-x64:1.8.2 org.jetbrains.compose.material:material-icons-extended-desktop:1.6.0 org.jetbrains.compose.runtime:runtime:1.8.2 org.jetbrains.kotlin:kotlin-stdlib:2.2.21 -- resolvePlatform=JVM nativeTarget=null
+wasmTarget=null
+https://repo1.maven.org/maven2 https://maven.google.com https://maven.pkg.jetbrains.space/public/p/compose/dev resolved to:
+  .m2.cache\org\jetbrains\compose\material\material-icons-extended-desktop\1.6.0\material-icons-extended-desktop-1.6.0.jar
+  .m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.2.21\kotlin-stdlib-2.2.21.jar
+  .m2.cache\org\jetbrains\annotations\23.0.0\annotations-23.0.0.jar
+  .m2.cache\org\jetbrains\compose\runtime\runtime-desktop\1.8.2\runtime-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\desktop\desktop-jvm\1.8.2\desktop-jvm-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\material\material-icons-core-desktop\1.6.0\material-icons-core-desktop-1.6.0.jar
+  .m2.cache\org\jetbrains\kotlinx\kotlinx-coroutines-core-jvm\1.8.0\kotlinx-coroutines-core-jvm-1.8.0.jar
+  .m2.cache\org\jetbrains\compose\foundation\foundation-desktop\1.8.2\foundation-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\material\material-desktop\1.8.2\material-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-desktop\1.8.2\ui-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-tooling-preview-desktop\1.8.2\ui-tooling-preview-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\animation\animation-desktop\1.8.2\animation-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\skiko\skiko-awt\0.9.4.2\skiko-awt-0.9.4.2.jar
+  .m2.cache\org\jetbrains\compose\animation\animation-core-desktop\1.8.2\animation-core-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\material\material-ripple-desktop\1.8.2\material-ripple-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-text-desktop\1.8.2\ui-text-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\runtime\runtime-saveable-desktop\1.8.2\runtime-saveable-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-geometry-desktop\1.8.2\ui-geometry-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-graphics-desktop\1.8.2\ui-graphics-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-unit-desktop\1.8.2\ui-unit-desktop-1.8.2.jar
+  .m2.cache\org\jetbrains\compose\ui\ui-util-desktop\1.8.2\ui-util-desktop-1.8.2.jar
+  .m2.cache\androidx\lifecycle\lifecycle-common-jvm\2.8.5\lifecycle-common-jvm-2.8.5.jar
+  .m2.cache\org\jetbrains\compose\foundation\foundation-layout-desktop\1.8.2\foundation-layout-desktop-1.8.2.jar
+  .m2.cache\androidx\annotation\annotation-jvm\1.9.1\annotation-jvm-1.9.1.jar
+00:37.028 DEBUG :app:compileJvm           JvmCompileTask            compile app -- main
+00:37.283 DEBUG :app:compileJvm           ExtractKt                 Skipping extract to C:\Users\lamia\AppData\Local\JetBrains\Amper\extract.cache\5de2c13edf-amazon-corretto-21.0.1.12.1-windows-x64-jdk.zip.92d495.d since flag file C:\Users\lamia\AppData\Local\JetBrains\Amper\extract.cache\5de2c13edf-amazon-corretto-21.0.1.12.1-windows-x64-jdk.zip.92d495.d.flag is correct
+00:37.342 DEBUG :app:compileJvm           IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_app_compileJvm-5d9114e703' in 16.556700ms
+00:37.342 DEBUG :app:compileJvm           IncrementalCache          [inc] ':app:compileJvm' is up-to-date
+00:37.372 DEBUG :app:jarJvm               IncrementalCache          [inc] up-to-date according to state file at 'E:\app\build\incremental.state\_app_jarJvm-cc844acfac' in 3.975600ms
+00:37.372 DEBUG :app:jarJvm               IncrementalCache          [inc] ':app:jarJvm' is up-to-date
+00:37.383 DEBUG :app:runJvm               ExtractKt                 Skipping extract to C:\Users\lamia\AppData\Local\JetBrains\Amper\extract.cache\5de2c13edf-amazon-corretto-21.0.1.12.1-windows-x64-jdk.zip.92d495.d since flag file C:\Users\lamia\AppData\Local\JetBrains\Amper\extract.cache\5de2c13edf-amazon-corretto-21.0.1.12.1-windows-x64-jdk.zip.92d495.d.flag is correct
+00:37.403 DEBUG :app:runJvm               BuildPrimitives           [cmd] C:\Users\lamia\AppData\Local\JetBrains\Amper\extract.cache\5de2c13edf-amazon-corretto-21.0.1.12.1-windows-x64-jdk.zip.92d495.d\bin\java.exe @E:\app\build\temp\java-args-6773445707148344341.txt

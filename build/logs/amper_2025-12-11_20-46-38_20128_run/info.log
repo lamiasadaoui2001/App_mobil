@@ -1,0 +1,10 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:04.133 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:14.021 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HabitDetailScreen.kt:28:48 Argument type mismatch: actual type is 'SnapshotStateList<Int>', but 'List<LocalDate>' was expected.
+00:14.024 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HabitDetailScreen.kt:81:52 Unresolved reference 'dayOfMonth'.
+00:14.024 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:123:37 Argument type mismatch: actual type is 'SnapshotStateList<LocalDate>', but 'Collection<Int>' was expected.
+00:14.025 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:26:45 Unresolved reference 'DayOfWeek'.
+00:14.026 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:103:62 Argument type mismatch: actual type is 'SnapshotStateList<Int>', but 'SnapshotStateList<LocalDate>' was expected.
+00:14.027 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:127:37 Argument type mismatch: actual type is 'SnapshotStateList<LocalDate>', but 'SnapshotStateList<Int>' was expected.

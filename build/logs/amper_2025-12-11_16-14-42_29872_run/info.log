@@ -1,0 +1,10 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:05.966 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:22.790 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/NewHabitScreen.kt:50:43 'val Icons.Filled.ArrowBack: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.ArrowBack.
+00:22.794 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/Task.kt:14:55 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.
+00:22.795 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:26:51 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.
+00:22.797 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:38:58 'val Icons.Filled.DirectionsWalk: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.DirectionsWalk.
+00:22.798 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:39:47 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.
+00:22.800 WARN  :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:48:47 'val Icons.Filled.MenuBook: ImageVector' is deprecated. Use the AutoMirrored version at Icons.AutoMirrored.Filled.MenuBook.

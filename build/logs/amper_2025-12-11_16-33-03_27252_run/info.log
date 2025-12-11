@@ -1,0 +1,44 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:04.983 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:16.013 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HabitDetailScreen.kt:42:94 Unresolved reference 'clickable'.
+00:16.016 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HabitDetailScreen.kt:43:68 Unresolved reference 'clickable'.
+00:16.017 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:96:21 No value passed for parameter 'onClick'.
+00:16.018 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:25:34 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.019 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:25:59 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.020 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:26:37 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.021 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:26:61 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.022 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:27:46 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.023 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:27:74 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.024 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:28:48 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.025 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:28:78 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.026 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:29:46 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.027 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:29:72 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.028 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:30:43 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.029 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:30:63 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.030 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:34:30 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.030 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:34:55 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.031 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:35:36 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.032 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:35:67 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.034 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:38:44 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.035 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:38:74 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.036 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:39:33 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.037 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:39:57 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.041 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:42:34 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.042 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:42:59 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.043 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:43:42 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.044 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:43:70 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.044 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:44:35 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.045 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:44:65 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.046 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:47:36 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.047 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:47:67 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.047 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:48:33 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.048 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:48:57 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.049 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:51:30 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.050 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:51:55 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.051 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:52:27 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.052 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:52:58 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.052 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:55:27 Argument type mismatch: actual type is 'ImageVector', but 'String' was expected.
+00:16.053 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:55:58 Argument type mismatch: actual type is 'String', but 'ImageVector' was expected.
+00:16.053 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:68:17 No value passed for parameter 'onHabitClick'.

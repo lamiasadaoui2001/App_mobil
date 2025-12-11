@@ -1,0 +1,25 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:04.793 INFO  :app:compileJvm           JvmCompileTask            Compiling module 'app' for platform 'jvm'...
+00:15.892 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:41:35 Unresolved reference 'Task'.
+00:15.894 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:43:20 Unresolved reference 'Task'.
+00:15.895 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:65:61 Cannot infer type for type parameter 'T'. Specify it explicitly.
+00:15.896 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:65:61 Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun <T> Iterable<T>.all(predicate: (T) -> Boolean): Boolean
+00:15.904 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:65:65 Cannot infer type for type parameter 'T'. Specify it explicitly.
+00:15.906 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:65:70 Unresolved reference 'state'.
+00:15.907 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:91:70 Cannot infer type for type parameter 'T'. Specify it explicitly.
+00:15.908 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:93:37 Cannot infer type for value parameter 'habitIndex'. Specify it explicitly.
+00:15.912 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:93:49 Cannot infer type for value parameter 'task'. Specify it explicitly.
+00:15.912 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:94:17 @Composable invocations can only happen from the context of a @Composable function
+00:15.914 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:98:49 Unresolved reference 'state'.
+00:15.915 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/HomeScreen.kt:99:52 Unresolved reference 'copy'.
+00:15.916 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:24:11 Unresolved reference 'Task'.
+00:15.918 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:29:23 Unresolved reference 'state'.
+00:15.918 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:32:30 Unresolved reference 'state'.
+00:15.919 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:54:27 Unresolved reference 'iconLeft'.
+00:15.920 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:58:31 Unresolved reference 'label'.
+00:15.920 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:59:30 Unresolved reference 'tool'.
+00:15.921 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/TaskCard.kt:60:35 Unresolved reference 'tool'.
+00:15.923 ERROR :app:compileJvm           KotlinBuildToolsApiKt     file:///E:/app/src/main.kt:66:23 Unresolved reference 'HomeScreen'.

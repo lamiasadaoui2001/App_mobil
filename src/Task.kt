@@ -2,12 +2,21 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
 
+import androidx.compose.runtime.snapshots.SnapshotStateList
+import androidx.compose.runtime.mutableStateListOf
+import java.time.LocalDate
+import java.time.DayOfWeek
+import java.time.YearMonth
+
+
 data class Task(
     val label: String,
     val iconLeft: ImageVector,
-    val state: String, // "done" | "in_progress" | "not_done",
+    var state: String,
+    val validatedDays: SnapshotStateList<LocalDate> = mutableStateListOf(), // ← mutable dès le départ
     val tool: String = ""
 )
+
 fun getIconForHabit(habitName: String): ImageVector {
     return when (habitName) {
         "Sport 1h", "Sport 30 min" -> Icons.Default.RunCircle
